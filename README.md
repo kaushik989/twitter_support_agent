@@ -32,6 +32,9 @@ pip install -r requirements.txt
 
 ### 2. Run Headline Benchmark Pipeline
 ```bash
+cd twitter_support_agent
+venv\Scripts\activate
+pip install -r requirements.txt
 python run_pipeline.py
 ```
 
