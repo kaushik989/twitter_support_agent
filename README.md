@@ -25,7 +25,7 @@ Reproduce all headline benchmark results, baseline comparisons, LLM-as-Judge rub
 
 ### 1. Installation
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/kaushik989/twitter_support_agent
 cd twitter_support_agent
 pip install -r requirements.txt
 ```
