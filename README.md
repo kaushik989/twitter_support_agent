@@ -1,4 +1,4 @@
-# Hiver SDE Intern Take-Home Assignment: AI Customer Support Agent (`@AppleSupport`)
+# AI Customer Support Agent (`@AppleSupport`)
 
 **Deployed Web App:** [👉 Click here to view the live project](https://kaushik989.github.io/twitter_support_agent/)
  
